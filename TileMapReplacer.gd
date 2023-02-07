@@ -1,4 +1,4 @@
-# TileMapReplacer.gd
+# TileMapReplacer.gd by Thomas Pope
 # A script that acutomatically replaces the specified tile with an object at runtime.
 
 extends TileMap
