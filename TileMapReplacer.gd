@@ -1,3 +1,6 @@
+# TileMapReplacer.gd
+# A script that acutomatically replaces the specified tile with an object at runtime.
+
 extends TileMap
 
 export var placeholder_tile_id = 1
